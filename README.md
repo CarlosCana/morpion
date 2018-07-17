@@ -1,6 +1,13 @@
 # Tic-Tac-Toe
 A Tic Tac Toe game developped in ruby 
 
+# To make it work
+Just run 
+
+```sh
+$ ruby game.rb
+```
+
 # What it does:
 This is a game and there are rules to play it:
 
