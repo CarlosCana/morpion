@@ -1,14 +1,14 @@
 # Tic-Tac-Toe
 A Tic Tac Toe game developped in ruby 
 
-# To make it work
+### To make it work
 Just run 
 
 ```sh
 $ ruby game.rb
 ```
 
-# What it does:
+### What it does:
 This is a game and there are rules to play it:
 
 * It is a 2 players game, one turn per player
@@ -17,10 +17,10 @@ This is a game and there are rules to play it:
 * Of course, there is a winner, and it does tells you when that happens
 * But if there are no a winners (it can happen) the program also tells you that.
 
-# What is doesn't do
+### What is doesn't do
 - Pancakes, sorry but what where you expecting? is a Tic-Tac-Toe game
 
-# Menu
+### Menu
 Our game has a menu, in french, we love french, if you don't know it, learn it:
 
 "Bienvenue sur le TicTacToe lyonnais !"
@@ -29,7 +29,7 @@ Our game has a menu, in french, we love french, if you don't know it, learn it:
 * Tape 3 pour afficher les cases
 * Tape 4 pour sortir du jeu
 
-# Board Layout
+### Board Layout
 
 	1 | 2 | 3
     ---------
@@ -39,7 +39,7 @@ Our game has a menu, in french, we love french, if you don't know it, learn it:
 
 or something like this, 'cause this is more like and ad of the game, so it has to look nicer.
 
-# The Program
+### The Program
 We made many class's (Player, Game, Board, etc).
 Each class is in a file.
 Each file has many methods
